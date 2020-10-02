@@ -8,12 +8,12 @@ This project is Web Site about rating with animation.
 
 ## Screenshots:
 
-<img src="video/cap.PNG">
-<img src="video/cap1.PNG">
-<img src="video/cap2.PNG">
-<img src="video/cap3.PNG">
-<img src="video/cap4.PNG">
-<img src="video/cap5.PNG">
+<img src="capture/cap.PNG">
+<img src="capture/cap1.PNG">
+<img src="capture/cap2.PNG">
+<img src="capture/cap3.PNG">
+<img src="capture/cap4.PNG">
+<img src="capture/cap5.PNG">
 
 
 ## Tools used:
